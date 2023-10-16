@@ -1,0 +1,100 @@
+* {
+    
+    box-sizing: border-box;
+}
+
+header {
+    margin-bottom:20px;
+}
+.logo_header {
+    background: lightblue url("../img/pattern.png") repeat;
+    background-size: contain;
+    padding-top:50px;
+}
+
+main {
+    margin-bottom:20px;
+}
+
+h1 {
+    margin-bottom:0px;
+}
+
+.sottotitolo {
+    font-size:13px;
+    color:silver;
+    font-weight: bold;
+    margin-bottom:20px;
+}
+
+#name {
+    color:lightskyblue;
+}
+
+#date {
+    font-size:9px;
+}
+
+.descrizione {
+    font-size:9px;
+    margin-bottom:20px;
+}
+
+.articolo {
+
+}
+
+#yellow {
+    background-color:yellow;
+}
+
+#yellow2 {
+    background-color:yellow;
+}
+
+table {
+    margin-bottom:20px;
+}
+
+thead {
+    background-color:lightblue;
+    color:white;
+    padding:0;
+}
+
+th, td {
+width:400px;
+text-align:left;
+}
+
+#lightblue {
+    background-color:lightcyan;
+}
+
+.titolofooter {
+    font-size:15px;
+    color:silver;
+    font-weight: bold;
+    margin-bottom:10px;
+}
+
+.previewuno {
+    background-image: url("../img/monitor.jpg");
+    background-size: lenght;
+    width:250px;
+    height:250px;
+    color:white;
+    font-weight: bold;
+    padding:15px;
+    margin-bottom:10px;
+}
+
+.previewdue {
+    background-image: url("../img/graph.jpg");
+    background-size: lenght;
+    width:250px;
+    height:250px;
+    color:white;
+    font-weight: bold;
+    padding:15px;
+}
