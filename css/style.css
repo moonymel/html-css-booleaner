@@ -5,9 +5,8 @@
 }
 
 header {
-    margin-bottom:20px
+    margin-bottom:20px;
 }
-
 .logo_header {
     background: lightblue url("../img/pattern.png") repeat;
     background-size: contain;
@@ -18,6 +17,7 @@ header {
     font-size:13px;
     color:silver;
     font-weight: bold;
+    margin-bottom:20px;
 }
 
 #name {
@@ -25,5 +25,9 @@ header {
 }
 
 #date {
+    font-size:9px;
+}
+
+.descrizione {
     font-size:9px;
 }
