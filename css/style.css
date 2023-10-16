@@ -4,8 +4,26 @@
     box-sizing: border-box;
 }
 
+header {
+    margin-bottom:20px
+}
+
 .logo_header {
     background: lightblue url("../img/pattern.png") repeat;
     background-size: contain;
     padding-top:50px;
+}
+
+.sottotitolo {
+    font-size:13px;
+    color:silver;
+    font-weight: bold;
+}
+
+#name {
+    color:lightskyblue;
+}
+
+#date {
+    font-size:9px;
 }
