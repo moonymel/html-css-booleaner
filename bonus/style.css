@@ -1,6 +1,11 @@
 * {
-    
     box-sizing: border-box;
+}
+
+.container {
+    width:60%;
+    margin-left:20%;
+    
 }
 
 header {
@@ -44,13 +49,10 @@ h1 {
 
 }
 
-#yellow {
+yell {
     background-color:yellow;
 }
 
-#yellow2 {
-    background-color:yellow;
-}
 
 table {
     margin-bottom:20px;
