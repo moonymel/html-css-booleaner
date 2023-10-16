@@ -30,4 +30,13 @@ header {
 
 .descrizione {
     font-size:9px;
+    margin-bottom:20px;
+}
+
+.articolo {
+
+}
+
+#yellow {
+    background-color:yellow;
 }
